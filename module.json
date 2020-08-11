@@ -15,7 +15,7 @@
         {
 			"lang": "en",
 			"name": "English",
-            "path": "currency.json"
+            "path": "en-US.json"
         }
     ],
     "url": "https://github.com/horazath/currencyModule/",
