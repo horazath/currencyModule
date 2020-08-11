@@ -1,11 +1,11 @@
 import Actor5e from "../../systems/dnd5e/module/actor/entity.js";
 
 
-    patch_longRest();
+    patchCurrency();
 });
 
-function patch_longRest() {
-    Actor5e.prototype.convertCurrency() {
+function patchCurrency() {
+    Actor5e.prototype.convertCurrency = function() {
         const curr = duplicate(this.data.data.currency);
         const convert = {
           cp: {into: "sp", each: 3 },
@@ -20,5 +20,5 @@ function patch_longRest() {
         }
         return this.update({"data.currency": curr});
       }  
-    };
+    }
 }
