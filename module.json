@@ -15,8 +15,8 @@
 			"name": "currency",
 			"path": "currency.json"
         }
-        "url": "https://github.com/horazath/currencyModule/",
-        "manifest": "https://github.com/horazath/currencyModule/raw/master/module.json",
-        "download": "https://github.com/horazath/currencyModule/zipball/master"
-    ]
+    ],
+    "url": "https://github.com/horazath/currencyModule/",
+    "manifest": "https://github.com/horazath/currencyModule/raw/master/module.json",
+    "download": "https://github.com/horazath/currencyModule/zipball/master"
   }
