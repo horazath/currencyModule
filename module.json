@@ -13,8 +13,8 @@
     "packs": [],
     "languages": [
         {
-			"lang": "en",
-			"name": "English",
+			"lang": "cu",
+			"name": "Currency",
             "path": "en-US.json"
         }
     ],
