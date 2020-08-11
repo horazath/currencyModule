@@ -8,16 +8,9 @@
     "author": "Horazath",
     "systems": ["dnd5e"],
     "esmodules": [],
-    "scripts": [],
+    "scripts": ["currencyPatch.js"],
     "styles": [],
     "packs": [],
-    "languages": [
-        {
-			"lang": "cu",
-			"name": "Currency",
-            "path": "en-US.json"
-        }
-    ],
     "url": "https://github.com/horazath/currencyModule/",
     "manifest": "https://github.com/horazath/currencyModule/raw/master/module.json",
     "download": "https://github.com/horazath/currencyModule/zipball/master"
