@@ -1,11 +1,8 @@
 {
-    "DND5E.title": "Dungeons & Dragons 5ta Edición",
-    "DND5E.Currency": "Monedas",
-    "DND5E.CurrencyCP": "Cobre",
-    "DND5E.CurrencyConvert": "Convertir Todas las Monedas",
-    "DND5E.CurrencyConvertHint": "Convierte todas las monedas del personaje a su máxima posible denominación para reducir la cantidad de monedas que lleva. Advertencia, esta acción no puede ser revertida.",
-    "DND5E.CurrencyEP": "Electro",
-    "DND5E.CurrencyGP": "Oro",
-    "DND5E.CurrencyPP": "Platino",
-    "DND5E.CurrencySP": "Plata"
+    "DND5E.Currency": "Coins",
+    "DND5E.CurrencyCP": "Tips",
+    "DND5E.CurrencyEP": "Quarters",
+    "DND5E.CurrencyGP": "Clips",
+    "DND5E.CurrencyPP": "Towers",
+    "DND5E.CurrencySP": "Tikks"
 }
