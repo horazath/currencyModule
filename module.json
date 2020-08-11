@@ -10,10 +10,10 @@
     "scripts": [],
 
     "languages": [
-		{
-			"lang": "currency",
-			"name": "currency",
-			"path": "currency.json"
+        {
+         "lang": "currency",
+         "name": "currency",
+         "path": "currency.json"
         }
     ],
     "url": "https://github.com/horazath/currencyModule/",
