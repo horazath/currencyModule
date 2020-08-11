@@ -9,13 +9,13 @@
     "systems": ["dnd5e"],
     "esmodules": [],
     "scripts": [],
-    "styles": [],
+    "styles": ["dnd5eES.css"],
     "packs": [],
     "languages": [
         {
-         "lang": "currency",
-         "name": "currency",
-         "path": "currency.json"
+			"lang": "en",
+			"name": "English",
+            "path": "currency.json"
         }
     ],
     "url": "https://github.com/horazath/currencyModule/",
