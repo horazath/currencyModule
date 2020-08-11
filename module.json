@@ -5,7 +5,7 @@
     "author": "Sam",
     "version": "0.0.1",
     "minimumCoreVersion": "0.6.4",
-    "compatibleCoreVersion": "0.7",
+    "compatibleCoreVersion": "0.7.0",
     "systems": ["dnd5e"],
     "scripts": [],
 
