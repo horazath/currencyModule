@@ -1,6 +1,7 @@
 import Actor5e from "../../systems/dnd5e/module/actor/entity.js";
 
 
+Hooks.on("init", () => {
     patchCurrency();
 });
 
@@ -19,6 +20,7 @@ function patchCurrency() {
           curr[t.into] += change;
         }
         return this.update({"data.currency": curr});
-      }  
+        
     }
 }
+
